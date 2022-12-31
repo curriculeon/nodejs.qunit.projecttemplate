@@ -1,3 +1,3 @@
-import { CalculatorTest } from "./src/test/CalculatorTest.mjs";
+import { CalculatorTestRunner } from "./src/test/calculator/CalculatorTestRunner.mjs";
 
-new CalculatorTest().test();
+new CalculatorTestRunner().test();

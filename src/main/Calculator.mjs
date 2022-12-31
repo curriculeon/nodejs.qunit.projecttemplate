@@ -3,22 +3,22 @@ export class Calculator {
     }
 
     add(firstValue, secondValue) {
-        return null;
+        return null; // TODO;
     }
 
     subtract(firstValue, secondValue) {
-        return null;
+        return null; // TODO;
     }
 
     multiply(firstValue, secondValue) {
-        return null;
+        return null; // TODO;
     }
 
     divide(dividend, divisor) {
-        return null;
+        return null; // TODO;
     }
 
     modulate(baseValue, mod) {
-        return null;
-    }    
+        return null; // TODO;
+    }
 }
